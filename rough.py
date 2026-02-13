@@ -19,3 +19,18 @@ int = 999
 from oops_proj import chatbook 
 
 user1 = chatbook()
+print(user1.get_name())
+user1.set_name("Agent X")
+print(user1.get_name())
+
+# print(user1._chatbook__name)
+
+# lst = [1, 2, 3]
+# # functions
+# a = len(lst)
+# print(a)
+
+# method 
+# user1 = chatbook()
+# user1.sendmsg()
+
