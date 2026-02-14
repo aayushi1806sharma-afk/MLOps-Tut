@@ -8,7 +8,7 @@
     -> debugging
     -> easy to colab 
 
-5. End to End project (chatbbok class)
+5. End to End project (chatbook class)
     -> function vs method 
     -> magic method or dunder method
     -> self
@@ -18,4 +18,9 @@
     -> getter and setter methods 
     -> static method
 
-    -> Inheritance    
+6. Inheritance
+    -> Inheritance code example 
+    -> Why inheritance is needed ? (code reuability, parent has no acces to child class)
+    -> what gets inherited? - Constructor, Non private attributes, Non private methods
+    -> Contructor Overlloading and method Overloading
+    -> Super Keyword (can be used only inside class , cannot acces attributes/ variables ) 
